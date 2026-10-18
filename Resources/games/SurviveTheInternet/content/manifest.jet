@@ -1,0 +1,13 @@
+{ 
+    "id":"Main", 
+    "name":"Main Content Pack", 
+    "types":[
+        "STITheme", "STIFinalRoundTheme", 
+        "STIPrompt", "STIStorePrompt", "STIPhotoPrompt", "STIJobPrompt", 
+        "STIResponse", "STITwist", 
+        "STIName", 
+        "STIGag", "STIMessengerGag", "STIBookmarkGag", "STIPopupAdGag", "STIWarningGag", "STIAddressBarGag", "STIStickyNoteGag",
+        "STIDesktopFolderName", "STIDesktopIcon",
+        "STIThemeIntro"
+    ] 
+}
